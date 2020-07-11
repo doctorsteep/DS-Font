@@ -1,0 +1,37 @@
+/* Powered by DoctorSteep (http://doctorsteep.by) */
+
+@font-face {
+	font-family: 'DS Font-Bold';
+	src: url('DSFont-Bold.woff2') format('woff2'), url('DSFont-Bold.woff') format('woff');
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'DS Font-ExtraBold';
+	src: url('DSFont-ExtraBold.woff2') format('woff2'), url('DSFont-ExtraBold.woff') format('woff');
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'DS Font-ExtraLight';
+	src: url('DSFont-ExtraLight.woff2') format('woff2'), url('DSFont-ExtraLight.woff') format('woff');
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'DS Font-Light';
+	src: url('DSFont-Light.woff2') format('woff2'), url('DSFont-Light.woff') format('woff');
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'DS Font-Medium';
+	src: url('DSFont-Medium.woff2') format('woff2'), url('DSFont-Medium.woff') format('woff');
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'DS Font-Regular';
+	src: url('DSFont-Regular.woff2') format('woff2'), url('DSFont-Regular.woff') format('woff');
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'DS Font-SemiBold';
+	src: url('DSFont-SemiBold.woff2') format('woff2'), url('DSFont-SemiBold.woff') format('woff');
+	font-weight: normal;
+}
