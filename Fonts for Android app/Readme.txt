@@ -1,9 +1,7 @@
-				Скопируйте все шрифты в директорию приложения 
-
-
+Copied files to Android app project 
 
 Disc:\PatchForAndroidStudioProjects\YourApp\app\src\main\res\font
 
-				или 
+	or 
 
 Disc:\PatchForAndroidStudioProjects\YourApp\app\src\main\assets\...
